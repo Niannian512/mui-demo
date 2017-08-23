@@ -1,0 +1,109 @@
+{
+	"html/market/compile.html": {
+		"resources": [
+			"img/compile-banner.png",
+			"css/market.css",
+			"img/compile_back.png",
+			"js/mui.min.js",
+			"img/compile_anniu.png",
+			"js/jquery-2.1.0.js",
+			"js/comment .js",
+			"css/commen.css",
+			"img/compile_fenxiang.png",
+			"js/market.js",
+			"img/bianji_ding.png",
+			"js/immersed.js",
+			"img/compile_FX_xinlang.png",
+			"img/compile_FX_yingxiao.png",
+			"img/compile_FX_fuzhi.png",
+			"img/compile_FX_kongjian.png",
+			"img/compile_FX_weixin.png",
+			"img/compile_FX_pengyouquan.png",
+			"img/compile_FX_qq.png",
+			"js/fastclick.js"
+		],
+		"refer": [
+			"html/market/compile_guanggao.html",
+			"html/market/compile_yulanwenzhang.html",
+			"html/market/compile_lishijilu.html"
+		]
+	},
+	"html/market/compile_guanggao.html": {
+		"resources": [
+			"img/compile_GG_duigou.png",
+			"js/fastclick.js",
+			"css/market.css",
+			"img/compile_back.png",
+			"js/mui.min.js",
+			"img/compile_GG_bg.png",
+			"js/jquery-2.1.0.js",
+			"js/comment .js",
+			"css/commen.css",
+			"js/market.js",
+			"img/bianji_ding.png",
+			"img/WMP_touxiang.png"
+		]
+	},
+	"html/market/compile_yulanwenzhang.html": {
+		"resources": [
+			"img/compile-banner.png",
+			"js/fastclick.js",
+			"css/market.css",
+			"img/compile_back.png",
+			"js/mui.min.js",
+			"js/jquery-2.1.0.js",
+			"js/comment .js",
+			"css/commen.css",
+			"js/market.js",
+			"img/bianji_ding.png"
+		]
+	},
+	"html/market/compile_lishijilu.html": {
+		"resources": [
+			"js/fastclick.js",
+			"css/market.css",
+			"img/compile_back.png",
+			"js/mui.min.js",
+			"js/jquery-2.1.0.js",
+			"js/comment .js",
+			"css/commen.css",
+			"img/compile_lishijilu_tu.png",
+			"js/market.js",
+			"img/bianji_ding.png"
+		]
+	},
+	"html/market/guangchang_qiye.html": {
+		"resources": [
+			"img/compile-banner.png",
+			"img/compile_FX_kongjian.png",
+			"js/jquery-2.1.0.js",
+			"img/bianji_ding.png",
+			"css/market.css",
+			"js/fastclick.js",
+			"img/compile_back.png",
+			"js/swiper-3.4.1.min.js",
+			"js/mui.min.js",
+			"css/commen.css",
+			"js/comment .js",
+			"css/swiper-3.4.1.min.css",
+			"js/market.js"
+		],
+		"refer": [
+			"html/market/guangchang_qiye_anli.html"
+		]
+	},
+	"html/market/guangchang_qiye_anli.html": {
+		"resources": [
+			"js/fastclick.js",
+			"css/market.css",
+			"js/mui.min.js",
+			"js/jquery-2.1.0.js",
+			"js/comment .js",
+			"css/commen.css",
+			"js/market.js",
+			"img/WMP_touxiang.png",
+			"img/compile_back.png",
+			"img/bianji_ding.png"
+		]
+	}
+}
